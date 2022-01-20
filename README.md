@@ -14,6 +14,8 @@ Allows the user to specify the name of the outputted image file
 
 Allows the user to display up to 25 different words in the word cloud
 
+![Alt Text](https://media.giphy.com/media/87mSdb5Vyk5kdxOEyr/giphy.gif)
+
 
 Instructions
 ------------
